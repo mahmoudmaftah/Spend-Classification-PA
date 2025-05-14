@@ -1,0 +1,17 @@
+
+
+
+.env
+*.log
+processed_data
+
+jupyter.ipynb
+TEST
+pavus-ai-procurement/data
+pavus-ai-procurement/output
+pavus-ai-procurement/processed_data
+
+*.pkl
+pavus-ai-procurement/ML/RUN1/plots/
+pavus-ai-procurement/ML/RUN2/plots/
+

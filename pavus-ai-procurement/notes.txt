@@ -1,0 +1,76 @@
+################################################################
+TAXONOMY :
+################################################################
+
+UNSPSC (United Nations Standard Products and Services Code):
+4-level hierarchy (Segment → Family → Class → Commodity)
+
+Example: "Laptop computers" would be:
+
+    Segment: 43 - IT Equipment
+    Family: 20 - Computer Equipment
+    Class: 15 - Portable Computers
+    Commodity: 11 - Laptop Computers
+
+
+
+
+
+eClass:
+Widely used in European countries
+
+Example: "Stainless steel bolts" might be:
+
+    Main group: 27 - Fasteners
+    Group: 27-25 - Bolts
+    Commodity class: 27-25-06 - Stainless steel bolts
+
+
+
+################################################################
+FOR THE DASHBOARD
+################################################################
+
+
+1. Spend Analysis Insights
+Spend by category (time series, YoY comparison)
+Category concentration risk (e.g., "80% of IT spend goes to 3 vendors")
+Maverick spend (purchases outside preferred suppliers)
+Contract compliance rates
+
+2. Supplier Performance Insights
+Spend distribution across suppliers within each category
+Price variance analysis for similar products
+Supplier diversification metrics
+Payment term compliance
+
+3. Process Efficiency Insights
+Procurement cycle times by category
+Approval workflow bottlenecks
+P2P process exceptions
+Tail spend analysis (small, unmanaged purchases)
+
+4. Budget & Cost Control Insights
+Budget vs. actual by category
+Cost avoidance opportunities
+Volume discount opportunities
+Seasonal spending patterns
+
+5. Advanced Analytics
+Predictive spend forecasting
+Anomaly detection (unusual spending patterns)
+Should-cost modeling
+Carbon footprint by category (for ESG reporting)
+
+
+
+
+
+Example Dashboard Visualizations
+Treemap View: Nested rectangles showing spend hierarchy
+Spend Velocity Chart: Daily/weekly spend trends by category
+Supplier Risk Matrix: Spend concentration vs. financial health
+Category Benchmarking: Your spend % vs. industry standards
+Savings Opportunity Heatmap: Potential savings by category
+
+
